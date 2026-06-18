@@ -1,6 +1,6 @@
 # Izvestaj o statickoj analizi koda
 
-**Ukupni LOC projekta:** 50 linija koda
+**Ukupni LOC projekta:** 214 linija koda
 
 ### Zapazanja i Code Smells:
 - Calculator.java - Deljenje sa nulom - Metoda za deljenje nema uslov "if (b == 0)" što dovodi do pada aplikacije u slučaju deljenja sa nulom.
